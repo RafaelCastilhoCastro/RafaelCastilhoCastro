@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/RafaelCastilhoCastro/RafaelCastilhoCastro/main/src/code_img01.jpg" align="center" height="" width="80" />
+<img src="https://raw.githubusercontent.com/RafaelCastilhoCastro/RafaelCastilhoCastro/main/src/code_img01a.png" align="center" height="" width="80" />
 </div>
 
 ### <div align="center">Oi! Eu sou Rafael Castro, desenvolvedor web full-stack. 👾</div>
@@ -64,5 +64,5 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RafaelCastilhoCastro/RafaelCastilhoCastro/main/src/code_img02.jpg" align="center" height="" width="150" />
+<img src="https://raw.githubusercontent.com/RafaelCastilhoCastro/RafaelCastilhoCastro/main/src/footer_img01b.png" align="center" height="" width="150" />
 </div>
