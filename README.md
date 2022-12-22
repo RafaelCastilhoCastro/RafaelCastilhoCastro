@@ -4,6 +4,8 @@
 
 ### <div align="center">Oi! Eu sou Rafael Castro, desenvolvedor web full-stack. 👾</div>
 
+<br/>
+
 - 🔎 Atualmente estou aprimorando integrações Restful APIs e MySQL.
 
 
@@ -13,11 +15,7 @@
 <br/>
 
 
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend
+### 📚 Stacks
 <div align="center">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>
@@ -25,14 +23,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend
-<div align="center">
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>
@@ -47,12 +37,10 @@
 </div>
 
 
-</td></tr></table>
-
 <br/>
 
 
-## Como me contatar
+### 💬 Me contate
 
 <div align="center">
 <a href="https://github.com/RafaelCastilhoCastro" target="_blank">
@@ -63,7 +51,7 @@
 </a>
 </a>
 <a href="mailto:rafaelcastrodev@pm.me" target="_blank">
-<img src=https://raw.githubusercontent.com/RafaelCastilhoCastro/RafaelCastilhoCastro/main/src/email_btn01.png alt=email style="margin-left: -7px;width: 115px"/>
+<img src=https://raw.githubusercontent.com/RafaelCastilhoCastro/RafaelCastilhoCastro/main/src/email_btn01.png alt=email style="padding-top: 10px;margin-left: -7px;width: 105px"/>
 </a>
 </div>
 
