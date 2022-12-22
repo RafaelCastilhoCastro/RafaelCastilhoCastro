@@ -64,5 +64,5 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RafaelCastilhoCastro/RafaelCastilhoCastro/main/src/footer_img01b.png" align="center" height="" width="150" />
+<img src="https://raw.githubusercontent.com/RafaelCastilhoCastro/RafaelCastilhoCastro/main/src/footer_img02.png" align="center" height="" width="150" />
 </div>
