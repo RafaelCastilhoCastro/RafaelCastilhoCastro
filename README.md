@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/RafaelCastilhoCastro/RafaelCastilhoCastro/main/src/code_img01a.png" align="center" height="" width="80" />
 </div>
 
-### <div align="center">Oi! Eu sou Rafael Castro, desenvolvedor web full-stack. 👾</div>
+# <div align="center">Oi! Eu sou Rafael Castro, desenvolvedor web full-stack. 👾</div>
 
 <br/>
 
