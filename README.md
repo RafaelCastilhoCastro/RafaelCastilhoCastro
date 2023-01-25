@@ -32,9 +32,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px;padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px;padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px;padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px;padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px;padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-</div>
+<a href="https://restfulapi.net/" target="_blank"><img style="margin: 10px;padding: 10px;" src="https://user-images.githubusercontent.com/65736872/214688190-103396e1-22ef-4ff5-a77f-79b438a31c81.png" alt="Jest" height="50" /></a>
 
 
 <br/>
