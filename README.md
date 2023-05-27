@@ -6,10 +6,7 @@
 
 <br/>
 
-- 🔎 Atualmente estou aprimorando integrações Restful APIs e MySQL.
-
-
-- 🌱 Nas horas vagas estou aprendendo Unity e C#.
+- 🔎 Atualmente estou aprimorando integrações de Webservices e APIs em Python.
 
 
 <br/>
