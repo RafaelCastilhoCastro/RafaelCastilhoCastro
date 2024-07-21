@@ -52,10 +52,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=RafaelCastilhoCastro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelCastilhoCastro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" align="center" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=RafaelCastilhoCastro&hide_border=true&layout=compact&theme=transparent" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCastilhoCastro&hide_border=true&layout=compact&theme=transparent" align="center" />
 </div>
 
 <br/>
